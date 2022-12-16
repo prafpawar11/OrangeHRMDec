@@ -10,5 +10,7 @@ public class PIMPageTest {
 		pimpage.addnewuser();
 
 		pimpage.addMorePersonalDetails();
+		
+		pimpage.searchEmployee();
 	}
 }

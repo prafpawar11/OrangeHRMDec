@@ -13,4 +13,9 @@ public class PIMPage {
 		System.out.println("Add more personal Details");
 	}
 	
+	public void searchEmployee()
+	{
+		System.out.println("search employee");
+	}
+	
 }
