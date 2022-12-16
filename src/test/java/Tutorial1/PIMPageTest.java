@@ -12,5 +12,7 @@ public class PIMPageTest {
 		pimpage.addMorePersonalDetails();
 		
 		pimpage.searchEmployee();
+		
+		pimpage.deleteEmployee();
 	}
 }

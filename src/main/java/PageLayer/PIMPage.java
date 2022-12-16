@@ -18,4 +18,9 @@ public class PIMPage {
 		System.out.println("search employee");
 	}
 	
+	public void deleteEmployee()
+	{
+		System.out.println("delete employee");
+	}
+	
 }
