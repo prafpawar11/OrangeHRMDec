@@ -8,4 +8,9 @@ public class PIMPage {
 		System.out.println("Addnew user in pim page");
 	}
 	
+	public void addMorePersonalDetails()
+	{
+		System.out.println("Add more personal Details");
+	}
+	
 }

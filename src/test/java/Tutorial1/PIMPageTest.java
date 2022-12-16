@@ -9,5 +9,6 @@ public class PIMPageTest {
 		PIMPage pimpage = new PIMPage();
 		pimpage.addnewuser();
 
+		pimpage.addMorePersonalDetails();
 	}
 }
